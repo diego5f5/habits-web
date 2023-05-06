@@ -24,7 +24,7 @@ The following instructions will provide you information to get the project up an
 
 > To test the functionalities in the web application, it is necessary to run the [backend](https://github.com/diego5f5/habits-server) project locally on your machine.
 
-#### Libraries and Frameworks
+#### Technologies
 
 This project uses mainly the following libraries and frameworks:
 
